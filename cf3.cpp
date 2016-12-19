@@ -1,3 +1,5 @@
+//this is in c++ bruteforce
+
 # include<iostream>
 using namespace std;
 int main()
